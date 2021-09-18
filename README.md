@@ -1,6 +1,7 @@
 # Ethereum Primus
 
 The Crypto Mint's first Digital Asset Backed Smart Embedded NFT Ethereum Coin. <br>
+Each coin is embedded with one Ethereum on the smart contract. <br>
 Our coins are more than pretty NFTs. These are bona fide Etheruem coins.
 
 
