@@ -3,9 +3,10 @@
 The Crypto Mint's first Digital Asset Backed Smart Embedded NFT Ethereum Coin. <br>
 Our coins are more than pretty NFTs. These are bona fide Etheruem coins.
 
-<br>
-<b>[Visit TheCryptoMint](https://cryptomint.one)</b>
 
+[Visit TheCryptoMint](https://cryptomint.one)
+
+<br>
 <img src="/assets/both-coins.png" alt="Ethereum Primus - front and back faces" width="500" />
 <br>
 
