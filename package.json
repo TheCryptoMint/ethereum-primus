@@ -1,7 +1,7 @@
 {
-  "name": "crypto-mint",
-  "version": "0.1.1",
-  "description": "The Crypto Mint",
+  "name": "ethereum-coin-primus",
+  "version": "0.1.2",
+  "description": "Ethereum Coin Primus",
   "author": "admin@cryptomint.io",
   "private": false,
   "scripts": {
